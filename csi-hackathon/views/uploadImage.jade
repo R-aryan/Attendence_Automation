@@ -1,0 +1,18 @@
+extends layout
+
+block content
+  center
+      h1 Upload Image
+      center
+        video#video(autoplay='true', width='400', height='300')
+        a#capture.cap_button(href='#', onclick='picSnap()') Take Pic
+        canvas#canvas(width='400', height='300')
+        .input-group
+          button.btn(type='submit', name='upload') upload
+        form(enctype='multipart/form-data', action='/users/imageUpload', method='post')
+          input#image-file(type='file', name='imageupload')
+          button.btn(type='submit', name='submit') upload
+        script(src='javascripts/axios.min.js')
+        script(src='javascripts/FileSaver.min.js')
+        script(src='javascripts/videoCapture.js')
+        

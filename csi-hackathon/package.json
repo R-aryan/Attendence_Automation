@@ -1,0 +1,23 @@
+{
+  "name": "csi-hackathon",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "express-session": "^1.15.6",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^4.13.4",
+    "morgan": "~1.9.0",
+    "multer": "^1.3.0",
+    "serve-favicon": "~2.4.5"
+  }
+}

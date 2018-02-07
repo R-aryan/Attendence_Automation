@@ -1,0 +1,23 @@
+extends layout
+
+block content
+  .header
+        h2 Register
+      form(method='post', action='/users/register')
+        .input-group
+          label  SAP ID 
+          input(type='text', name='sapid',placeholder='Enter your SAP Id',required)
+        .input-group
+          label Email
+          input(type='text', name='email',placeholder='Enter your E-Mail',required)
+        .input-group
+          label  Name 
+          input(type='text', name='name',placeholder='Enter your Name',required)
+        .input-group
+          label Password
+          input(type='password', name='password',placeholder='Enter the password',required)
+        .input-group
+          button.btn(type='submit', name='register') Register
+        p
+          | Already a member? 
+          a(href='login') Sign In

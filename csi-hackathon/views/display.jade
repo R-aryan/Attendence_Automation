@@ -1,0 +1,33 @@
+extends layout
+
+block content
+    center
+        h1 User Details
+        center
+          table(align='center')
+            tr
+              th Name
+              td #{details.name}
+            tr
+              th Email
+              td #{details.email}
+            tr
+              th SAP
+              td #{details.sapid}
+            tr
+              th Attendance
+              td #{details.att || 0}
+        br
+        br
+        center         
+          p
+            | To Upload 
+            a(href='http://localhost:3000/upload') Click here
+            br
+            br
+            .input-group
+              button.btn#logout(type='submit', name='logout') Logout
+            center
+        script(src='javascripts/axios.min.js')
+        script(src='javascripts/logout.js')
+        

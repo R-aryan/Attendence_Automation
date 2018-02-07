@@ -1,0 +1,20 @@
+extends layout
+
+block content
+  .header
+        h2 Login
+      form(method='post', action='/users/login')
+        .input-group
+          label  SAP ID 
+          input(type='text', name='sapid', placeholder='Enter your SAP ID',required)
+    
+        .input-group
+          label Password
+          input(type='password', name='password',placeholder='Enter the password',required)
+
+        .input-group
+          button.btn(type='submit', name='login') Login
+        p
+          | Not yet a member? 
+          a(href='register') Sign Up
+  
