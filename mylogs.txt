@@ -1,0 +1,276 @@
+2017-11-29 12:56:59,267-DEBUG-database connection established 
+
+2017-11-29 12:56:59,341-DEBUG-face detection module begins 
+
+2017-11-29 12:56:59,970-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:00,124-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:00,282-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:00,434-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:00,592-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:00,756-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:00,895-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:01,040-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:01,200-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:01,354-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:01,802-INFO-Face Id  1 matched 
+ 
+2017-11-29 12:57:01,802-INFO-Setting flag of matched Id  1 true 
+ 
+2017-11-29 12:57:01,803-INFO-Face Id not matched 
+ 
+2017-11-29 12:57:01,803-INFO-Face Id not matched 
+ 
+2017-11-29 12:57:01,803-INFO-Face Id not matched 
+ 
+2017-11-29 12:57:01,805-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:01,992-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:02,180-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:02,408-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:02,618-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:02,855-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:03,098-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:03,309-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:03,492-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:03,681-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:03,865-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:04,069-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:04,243-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:04,431-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:04,653-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:04,835-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:05,052-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:05,226-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:05,413-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:05,632-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:05,844-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:06,019-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:06,191-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:06,365-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:06,538-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:06,753-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:06,927-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:07,099-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:07,299-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:07,526-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:07,713-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:07,897-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:08,108-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:08,289-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:08,476-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:08,683-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:08,865-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:09,039-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:09,226-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:09,444-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:09,632-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:09,821-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:10,009-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:10,197-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:10,384-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:10,619-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:10,803-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:10,990-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:11,167-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:11,346-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:11,520-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:11,710-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:11,938-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:12,145-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:12,319-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:12,545-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:12,776-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:12,960-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:13,183-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:13,365-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:13,536-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:13,709-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:13,881-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:14,088-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:14,270-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:14,441-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:14,615-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:14,844-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:15,040-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:15,256-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:15,500-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:15,710-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:15,881-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:16,105-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:16,286-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:16,460-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:16,664-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:16,911-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:17,094-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:17,316-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:17,487-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:17,660-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:17,858-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:18,036-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:18,206-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:18,381-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:18,552-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:18,723-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:18,894-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:19,066-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:19,282-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:19,456-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:19,630-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:19,801-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:19,973-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:20,145-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:20,319-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:20,556-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:20,740-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:20,911-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:21,112-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:21,312-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:21,486-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:21,661-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:21,835-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:22,071-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:22,311-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:22,513-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:22,746-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:22,930-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:23,177-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:23,417-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:23,651-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:23,882-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:24,081-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:24,256-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:24,459-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:24,628-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:24,802-INFO-Opening Webcam window 
+ 
+2017-11-29 12:57:24,848-INFO-Increamenting attendence of Id 1 by 1 
+ 
+2017-11-29 12:57:24,861-INFO-Face Detection module ends 
+ 
